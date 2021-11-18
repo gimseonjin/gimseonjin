@@ -16,24 +16,24 @@
 
 ## 👩🏻‍💻 Tech Stack 
 
+### Programming language
 <p align="left">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/>
 </p>
-
+### Database
 <p align="left">
     <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
 </p>
-
+### Infra
 <p align="left">    
     <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
 </p>
 
 ## 👩🏻‍💻 Contact to me 
 <br>
-
 Email : kimseonjin616@naver.com
 
 Phone : 010-8835-2870
