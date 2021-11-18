@@ -19,19 +19,19 @@ basic is important! 기초를 착실하게 쌓아가는 개발자가 되고 싶�
 **Programming language**
 <p align="left">
     <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/>
 </p>
 **Database**
 <p align="left">
     <img src="https://img.shields.io/badge/Mysql-blue?style=flat-square&logo=MySql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=MySql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=MongoDB&logoColor=white"/>
 </p>
 **Infra**
 <p align="left">    
     <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-9cf?style=flat-square&logo=amazon-aws&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jenkins-yellow?style=flat-square&logo=amazon-aws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-9cf?style=flat-square&logo=Docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jenkins-yellow?style=flat-square&logo=Jenkins&logoColor=white"/>
 </p>
 
 ## 👩🏻‍💻 Contact to me 
