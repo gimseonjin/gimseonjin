@@ -2,9 +2,9 @@
 
 ## 👋🏻 Hi there  
 
-- 👩🏻‍💼   Department of CS (Computer Science)
+- 👩🏻‍💼   back-end developer
 - 💻   Usually using Java language for programmming
-- 👩🏻‍🏫   Learn constantly and think creatively.
+- 👩🏻‍🏫   be a developer with strong basics
 
 <br>
 
@@ -18,18 +18,18 @@
 
 ## 👩🏻‍💻 Tech Stack 
 
-<p align="center">
+<p align="left">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/>
 </p>
 
-<p align="center">
+<p align="left">
     <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
 </p>
 
-<p align="center">    
+<p align="left">    
     <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
 </p>
 
