@@ -24,14 +24,14 @@ basic is important! 기초를 착실하게 쌓아가는 개발자가 되고 싶�
 </p>
 **Database**
 <p align="left">
-    <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MongoDB-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Mysql-blue?style=flat-square&logo=MySql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=MySql&logoColor=white"/>
 </p>
 **Infra**
 <p align="left">    
     <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jenkins-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-9cf?style=flat-square&logo=amazon-aws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jenkins-yellow?style=flat-square&logo=amazon-aws&logoColor=white"/>
 </p>
 
 ## 👩🏻‍💻 Contact to me 
