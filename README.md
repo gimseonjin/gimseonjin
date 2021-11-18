@@ -2,14 +2,14 @@
 
 ## "안녕하세요👋 백엔드 개발자를 꿈꾸는 김선진입니다."
 <br>
-*basic is important!* 기초를 착실하게 쌓아가는 개발자가 되고 싶습니다.
+basic is important! 기초를 착실하게 쌓아가는 개발자가 되고 싶습니다.
 협업을 위해 배려하며, 성장하기 위해 노력합니다.
 
 
 <div id="main" align="center">
     <img 
         src="https://github-readme-stats.vercel.app/api?username=gimseonjin&hide=stars,contribs&count_private=true&show_icons=true"
-        style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+        style="height: auto; margin-left: 20px; margin-right: 20px; margin-top:20px; padding: 10px;"/>
 </div>
 
 
