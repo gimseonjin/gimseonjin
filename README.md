@@ -18,7 +18,7 @@ basic is important! 기초를 착실하게 쌓아가는 개발자가 되고 싶�
 
 **Programming language**
 <p align="left">
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/>
 </p>
