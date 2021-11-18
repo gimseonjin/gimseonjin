@@ -1,7 +1,40 @@
-### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgimseonjin&count_bg=%2318BFE5&title_bg=%23555555&icon=ko-fi.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+## 👋🏻 Hi there  
+
+- 👩🏻‍💼   Department of CS (Computer Science)
+- 💻   Usually using Java language for programmming
+- 👩🏻‍🏫   Learn constantly and think creatively.
+
+<br>
+
+
+<div id="main" align="center">
+    <img 
+        src="https://github-readme-stats.vercel.app/api?username=gimseonjin&hide=stars,contribs&count_private=true&show_icons=true"
+        style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+</div>
+
+
+## 👩🏻‍💻 Tech Stack 
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/>
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
+</p>
+
+<p align="center">    
+    <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
+</p>
 
 <!--
-**gimseonjin/gimseonjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**leejieuns2/leejieuns2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
