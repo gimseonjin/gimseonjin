@@ -32,14 +32,14 @@
 </p>
 
 ## 👩🏻‍💻 Contact to me 
-
 <br>
+
 Email : kimseonjin616@naver.com
 
 Phone : 010-8835-2870
 
-Github : [https://github.com/gimseonjin](https://github.com/gimseonjin)
+Github : https://github.com/gimseonjin
 
-Blog : [https://velog.io/@gimseonjin](https://velog.io/@gimseonjin)
+Blog : https://velog.io/@gimseonjin
 
 
