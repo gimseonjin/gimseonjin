@@ -27,7 +27,7 @@ basic is important! 기초를 착실하게 쌓아가는 개발자가 되고 싶�
 <p align="left">
     <img src="https://img.shields.io/badge/Springboot-339933?style=flat-square&logo=SpringBoot&logoColor=white"/>
     <img src="https://img.shields.io/badge/Express-6DB33F?style=flat-square&logo=Express&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Flask-Indigo?style=flat-square&logo=Flask&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask&logoColor=white"/>
 </p>
 
 **Database**
