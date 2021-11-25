@@ -13,10 +13,12 @@ Basic is important! 기초를 착실하게 쌓아가는 개발자가 되고 싶�
         style="height: auto; margin-left: 20px; margin-right: 20px; margin-top:50px; padding: 10px;"/>
     
     
-    <img 
+    
+</div>
+
+<img 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimseonjin&layout=compact"
         style="height: auto; margin-left: 20px; margin-right: 20px; margin-top:50px; padding: 10px;"/>
-</div>
 
 
 ## 👩🏻‍💻 Tech Stack 
