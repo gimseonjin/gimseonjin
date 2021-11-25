@@ -11,6 +11,7 @@ Basic is important! 기초를 착실하게 쌓아가는 개발자가 되고 싶�
     <img 
         src="https://github-readme-stats.vercel.app/api?username=gimseonjin&hide=stars,contribs&count_private=true&show_icons=true"
         style="height: auto; margin-left: 20px; margin-right: 20px; margin-top:50px; padding: 10px;"/>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
