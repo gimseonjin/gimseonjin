@@ -21,10 +21,10 @@ Basic is important! 기초를 착실하게 쌓아가는 개발자가 되고 싶�
     <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/>
+</p>
     <img 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimseonjin&layout=compact)](https://github.com/anuraghazra/github-readme-stats"
         style="height: auto; margin-left: 20px; margin-right: 20px; margin-top:50px; padding: 10px;"/>
-</p>
 
 **Framework**
 <p align="left">
