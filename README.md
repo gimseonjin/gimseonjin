@@ -3,7 +3,7 @@
 ## "안녕하세요👋 백엔드 개발자를 꿈꾸는 김선진입니다."
 <br>
 <p>
-basic is important! 기초를 착실하게 쌓아가는 개발자가 되고 싶습니다.
+Basic is important! 기초를 착실하게 쌓아가는 개발자가 되고 싶습니다.
 협업을 위해 배려하며, 성장하기 위해 노력합니다.
 </p>
 
@@ -51,6 +51,6 @@ Phone : 010-8835-2870
 
 Github : https://github.com/gimseonjin
 
-Blog : https://velog.io/@gimseonjin
+Blog : https://velog.io/@carrykim
 
 
