@@ -13,14 +13,16 @@ Basic is important! 기초를 착실하게 쌓아가는 개발자가 되고 싶�
             src="https://github-readme-stats.vercel.app/api?username=gimseonjin&hide=stars,contribs&count_private=true&show_icons=true"
             style="height: auto; margin-left: 20px; margin-right: 20px; margin-top:50px; padding: 10px;"/>
     </div>
-    <div>
-        <img 
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimseonjin&layout=compact"
-            style="height: auto; margin-left: 20px; margin-right: 20px; margin-top:50px; padding: 10px;"/>
-    </div>
     
     
-    
+## 👩🏻‍💻 Contact to me 
+<br>
+Email : kimseonjin616@naver.com
+
+Phone : 010-8835-2870
+
+Blog : https://velog.io/@carrykim
+
 </div>
 
 
@@ -52,15 +54,5 @@ Basic is important! 기초를 착실하게 쌓아가는 개발자가 되고 싶�
     <img src="https://img.shields.io/badge/Docker-9cf?style=flat-square&logo=Docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jenkins-yellow?style=flat-square&logo=Jenkins&logoColor=white"/>
 </p>
-
-## 👩🏻‍💻 Contact to me 
-<br>
-Email : kimseonjin616@naver.com
-
-Phone : 010-8835-2870
-
-Github : https://github.com/gimseonjin
-
-Blog : https://velog.io/@carrykim
 
 
