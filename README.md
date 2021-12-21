@@ -10,6 +10,7 @@
     </div>
    
 </div>
+<p></p>
 <p>
 Basic is important! 기초를 착실하게 쌓아가는 T형 개발자가 되고 싶습니다.
 </p>
