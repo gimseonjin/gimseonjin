@@ -23,4 +23,80 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 615 Contributions in the Year 2022
+ > 
+> 📦 173.8 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 27 Public Repositories 
+ > 
+> 🔑 33 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    61 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.01% 
+🌆 Daytime    265 commits    ███████░░░░░░░░░░░░░░░░░░   30.46% 
+🌃 Evening    336 commits    █████████░░░░░░░░░░░░░░░░   38.62% 
+🌙 Night      208 commits    ██████░░░░░░░░░░░░░░░░░░░   23.91%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       117 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.45% 
+Tuesday      198 commits    █████░░░░░░░░░░░░░░░░░░░░   22.76% 
+Wednesday    81 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.31% 
+Thursday     157 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.05% 
+Friday       86 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.89% 
+Saturday     115 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.22% 
+Sunday       116 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.33%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     17 repos            ███████░░░░░░░░░░░░░░░░░░   30.36% 
+Python                   16 repos            ███████░░░░░░░░░░░░░░░░░░   28.57% 
+JavaScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.57%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/gimseonjin/gimseonjin/main/charts/bar_graph.png) 
+
+
+ Last Updated on 19/05/2022 14:12:33 UTC
 <!--END_SECTION:waka-->
