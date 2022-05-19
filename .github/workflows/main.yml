@@ -12,5 +12,5 @@
       steps:
         - uses: anmol098/waka-readme-stats@master
           with:
-            WAKATIME_API_KEY: ${{ waka.WAKATIME_API_KEY }}
-            GH_TOKEN: ${{ waka.GH_TOKEN }}
+            WAKATIME_API_KEY: ${{ WAKA.WAKATIME_API_KEY }}
+            GH_TOKEN: ${{ WAKA.GH_TOKEN }}
