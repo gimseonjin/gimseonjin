@@ -1,47 +1,25 @@
+<h1 align="center">"안녕하세요👋 백엔드 개발자를 꿈꾸는 김선진입니다."</h1>
+<h3 align="center">Basic is important! 기초를 착실하게 쌓아가는 T형 개발자가 되고 싶습니다. 부하 분산에 관심이 많으며 부하테스트를 공부하고 있습니다. 협업을 위해 배려하며, 좋은 기술 문서를 쓰기 위해 노력합니다.</h3>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgimseonjin&count_bg=%2318BFE5&title_bg=%23555555&icon=ko-fi.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## "안녕하세요👋 백엔드 개발자를 꿈꾸는 김선진입니다."
-<br>
-<div id="main" align="centor">
-    <div>
-        <img 
-            src="https://github-readme-stats.vercel.app/api?username=gimseonjin&hide=stars,contribs&count_private=true&show_icons=true"
-            style="height: auto; margin-left: 20px; margin-right: 20px; margin-top:50px; padding: 10px;"/>
-    </div>
-   
-</div>
-<p></p>
-<p>
-Basic is important! 기초를 착실하게 쌓아가는 T형 개발자가 되고 싶습니다.
-</p>
-<p>
-부하 분산에 관심이 많으며 부하테스트를 공부하고 있습니다.
-</p>
-<p>
-협업을 위해 배려하며, 좋은 기술 문서를 쓰기 위해 노력합니다.
-</p>
+- 🌱 I’m currently learning **JAVA Stream, Kotlin**
 
+- 👨‍💻 All of my projects are available at [Carrykim's Notion](https://elderly-gruyere-ed2.notion.site/0-a2fe0ade7c354a749153cd7544fbd685)
 
+- 📝 I regularly write articles on [velog](https://velog.io/@carrykim)
 
-## 👩🏻‍💻 Tech Stack 
+- 📫 How to reach me **kimseonjin616@naver.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-    <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/>
-</p>
-<p align="left">
-    <img src="https://img.shields.io/badge/Springboot-339933?style=flat-square&logo=SpringBoot&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Express-6DB33F?style=flat-square&logo=Express&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=Flask&logoColor=white"/>
-</p>
-<p align="left">
-    <img src="https://img.shields.io/badge/Mysql-blue?style=flat-square&logo=MySql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=MongoDB&logoColor=white"/>
-</p>
-<p align="left">    
-    <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-9cf?style=flat-square&logo=Docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jenkins-yellow?style=flat-square&logo=Jenkins&logoColor=white"/>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gimseonjin&show_icons=true&locale=en" alt="gimseonjin" /></p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
