@@ -21,14 +21,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gimseonjin&show_icons=true&locale=en" alt="gimseonjin" /></p>
 
 
-LOCALE: "ko"
-SHOW_LINES_OF_CODE: "True"
-SHOW_PROFILE_VIEWS: "False"
-SHOW_DAYS_OF_WEEK: "False"
-SHOW_SHORT_INFO: "False"
-SHOW_LOC_CHART: "False"
-SHOW_PROJECTS: "False"
-SHOW_LANGUAGE_PER_REPO: "False"
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
