@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **JAVA Stream, Kotlin**
 
-- 👨‍💻 All of my projects are available at [Carrykim's Notion](https://elderly-gruyere-ed2.notion.site/0-a2fe0ade7c354a749153cd7544fbd685)
+- 👨‍💻 All of my projects are available at [Carrykim's Portfolio](https://elderly-gruyere-ed2.notion.site/0-a2fe0ade7c354a749153cd7544fbd685)
 
-- 📝 I regularly write articles on [velog](https://velog.io/@carrykim)
+- 📝 I regularly write articles on [Carrykim's Velog](https://velog.io/@carrykim)
 
 - 📫 How to reach me **kimseonjin616@naver.com**
 
