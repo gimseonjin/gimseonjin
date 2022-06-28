@@ -1,5 +1,5 @@
 <h1 align="center">"HI👋 I'm a Python entry developer </h1>
-<h1 align="center"> who is interested in developing search engines."</h1>
+<h1 align="center"> who is interested in developing search engine."</h1>
 <h3 align="center">Basic is important! I want to be a T-type developer who builds a solid foundation.</h3>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgimseonjin&count_bg=%2318BFE5&title_bg=%23555555&icon=ko-fi.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
