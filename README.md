@@ -1,5 +1,5 @@
-<h1 align="center">"안녕하세요👋 검색엔진 개발에 관심있는 김선진입니다."</h1>
-<h3 align="center">Basic is important! 기초를 착실하게 쌓아가는 T형 개발자가 되고 싶습니다.</h3>
+<h1 align="center">"HI👋 I'm a Python entry developer who is interested in developing search engines."</h1>
+<h3 align="center">Basic is important! I want to be a T-type developer who builds a solid foundation.</h3>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgimseonjin&count_bg=%2318BFE5&title_bg=%23555555&icon=ko-fi.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
