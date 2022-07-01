@@ -1,4 +1,4 @@
-<h1 align="center">"HI👋 I'm a Python entry developer </h1>
+<h1 align="center">"HI👋 I'm a Backend entry developer </h1>
 <h1 align="center"> who is interested in developing search engine."</h1>
 <h3 align="center">Basic is important! I want to be a T-type developer who builds a solid foundation.</h3>
 
