@@ -4,7 +4,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgimseonjin&count_bg=%2318BFE5&title_bg=%23555555&icon=ko-fi.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- 🌱 I’m currently learning **Python, Kotlin, Elastic Search**
+- 🌱 I’m currently learning **Go, Node JS, Nest JS, Elastic Search**
 
 - 📝 I regularly write articles on [Carrykim's Velog](https://velog.io/@carrykim)
 
