@@ -9,8 +9,12 @@
 
 - 📫 How to reach me **kimseonjin616@naver.com**
 
+<br/>
 
 <h3 align="left">Languages and Tools:</h3>
+
+***
+
 <p align="left"> 
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="10%" height="10%"/> </a>
  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="10%" height="10%"/> </a>
@@ -21,7 +25,11 @@
  </p>
 </p>
 
+<br/>
+
 <h3 align="left">Github Status:</h3>
+
+***
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gimseonjin&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gimseonjin&theme=nord_bright)
@@ -29,6 +37,12 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gimseonjin&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gimseonjin&theme=nord_bright&utcOffset=8)
 
+
+<br/>
+
+<h3 align="left">Performance:</h3>
+
+***
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
