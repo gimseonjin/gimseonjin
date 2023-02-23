@@ -22,10 +22,6 @@
 </p>
 
 <h3 align="left">Github Status:</h3>
-<p align="left">
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gimseonjin&show_icons=true&locale=en" alt="gimseonjin" /></p>
-</p>
-</p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gimseonjin&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gimseonjin&theme=nord_bright)
