@@ -70,17 +70,18 @@ Sunday                   1418 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Docker                   15 mins             █████████████████████░░░░   85.06 % 
+YAML                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  18 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      18 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/08/2024 18:46:02 UTC
+ Last Updated on 12/08/2024 18:47:32 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
