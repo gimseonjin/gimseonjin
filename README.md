@@ -70,17 +70,17 @@ Sunday                   1418 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-YAML                     0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 31/08/2024 18:40:54 UTC
+ Last Updated on 01/09/2024 18:40:59 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
